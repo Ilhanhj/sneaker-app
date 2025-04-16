@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'pages/intro_page.dart';
+import 'pages/shop_page.dart';
 
 void main() {
   runApp(const SneakerApp());
